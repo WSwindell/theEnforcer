@@ -1,0 +1,313 @@
+{
+  "theEnforcer:Strike": {
+    "NAME": "Strike",
+    "DESCRIPTION": "Deal !D! damage."
+  },
+  "theEnforcer:Defend" : {
+    "NAME": "Defend",
+    "DESCRIPTION": "Gain !B! Block."
+  },
+  "theEnforcer:Protect": {
+    "NAME": "Protect",
+    "DESCRIPTION": "Gain !B! Block. NL theenforcer:Flips."
+  },
+  "theEnforcer:Serve": {
+    "NAME": "Serve",
+    "DESCRIPTION": "Deal !D! damage. NL theenforcer:Flips."
+  },
+  "theEnforcer:MercurialResolve": {
+    "NAME": "Mercurial Resolve",
+    "DESCRIPTION": "Gain !M! Block when a card is theenforcer:Flipped."
+  },
+  "theEnforcer:FlippantFury": {
+    "NAME": "Flippant Fury",
+    "DESCRIPTION": "Whenever a card is theenforcer:Flipped, deal !M! damage to all enemies."
+  },
+  "theEnforcer:ShieldsUp": {
+    "NAME": "Shields Up!",
+    "DESCRIPTION": "Block is not removed at the start of your turn."
+  },
+  "theEnforcer:TaserGauntlet": {
+    "NAME": "Taser Gauntlet",
+    "DESCRIPTION": "Deal !D! damage. NL Apply !M! Weak."
+  },
+  "theEnforcer:Reassess": {
+    "NAME": "Reassess",
+    "DESCRIPTION": "Draw !M! cards. NL Exhaust !M! cards."
+  },
+  "theEnforcer:GetHype": {
+    "NAME": "Get Hype",
+    "DESCRIPTION": "Gain !M! Strength. NL theenforcer:Flips."
+  },
+  "theEnforcer:GetReal": {
+    "NAME": "Get Real",
+    "DESCRIPTION": "Gain !M! Dexterity. NL theenforcer:Flips."
+  },
+  "theEnforcer:ReactiveArmour": {
+    "NAME": "Reactive Armour",
+    "DESCRIPTION": "Deal damage equal to your Block to all enemies, then removes your Block.",
+    "UPGRADE_DESCRIPTION": " NL Deals !D! damage."
+  },
+  "theEnforcer:Incoming": {
+    "NAME": "Incoming!",
+    "DESCRIPTION": "Gain !B! Block. NL theenforcer:Flips."
+  },
+  "theEnforcer:StaggeredDeflection": {
+    "NAME": "Staggered Deflection",
+    "DESCRIPTION": "Gain !B! Block. NL Gain !B! Block next turn. NL theenforcer:Flips."
+  },
+  "theEnforcer:TheShield": {
+    "NAME": "The Shield",
+    "DESCRIPTION": "Deal !D! Damage. NL Apply !M! Vulnerable. NL Exhaust !theEnforcer:SecondMagic! card. NL theenforcer:Flips."
+  },
+  "theEnforcer:TheStick": {
+    "NAME": "The Stick",
+    "DESCRIPTION": "Deal !D! Damage. NL Apply !M! Weak. NL Exhaust !theEnforcer:SecondMagic! card. NL theenforcer:Flips."
+  },
+  "theEnforcer:TheBoot": {
+    "NAME": "The Boot",
+    "DESCRIPTION": "Deal !D! Damage. NL Gain !B! Block. NL Exhaust !theEnforcer:SecondMagic! card. NL theenforcer:Flips."
+  },
+  "theEnforcer:ExplodingShield": {
+    "NAME": "Exploding Shield",
+    "DESCRIPTION": "At the end of your turn, deal half of your accumulated block as damage to a random enemy.",
+    "UPGRADE_DESCRIPTION": "At the end of your turn, deal half of your accumulated block as damage to all enemies."
+  },
+  "theEnforcer:OneTwo": {
+    "NAME": "Ol' One Two",
+    "DESCRIPTION": "Deal !D! damage twice."
+  },
+  "theEnforcer:FullKit": {
+    "NAME": "The Full Kit",
+    "DESCRIPTION": "Deal !D! damage three times, apply !M! Weak and !M! Vulnerable, and Exhaust !M! cards."
+  },
+  "theEnforcer:ReinforcedPlates": {
+    "NAME": "Reinforced Plates",
+    "DESCRIPTION": "Gain !M! Plated Armour. NL theenforcer:Flips."
+  },
+  "theEnforcer:SpikedShield": {
+    "NAME": "Spiked Shield",
+    "DESCRIPTION": "Gain !M! Thorns. NL theenforcer:Flips."
+  },
+  "theEnforcer:CutTheChaff": {
+    "NAME": "Cut The Chaff",
+    "DESCRIPTION": "Gain 2 Energy, Exhaust your hand. NL theenforcer:Flips."
+  },
+  "theEnforcer:SpareTheWheat": {
+    "NAME": "Spare The Wheat",
+    "DESCRIPTION": "Draw !M! cards. NL theenforcer:Flips."
+  },
+  "theEnforcer:ShieldSlam": {
+    "NAME": "Shield Slam",
+    "DESCRIPTION": "Deal !D! damage, gain !M! Vulnerable",
+    "UPGRADE_DESCRIPTION": "Deal !D! damage."
+  },
+  "theEnforcer:RetreatingSwipe": {
+    "NAME": "Retreating Swipe",
+    "DESCRIPTION": "Deal !D! damage. NL Exhaust 1 card."
+  },
+  "theEnforcer:RingOut": {
+    "NAME": "Ring Out",
+    "DESCRIPTION": "Apply !M! Weak to all enemies. NL Take !D! damage."
+  },
+  "theEnforcer:AdrenalineStream": {
+    "NAME": "Adrenaline Stream",
+    "DESCRIPTION": "Gain !M! Strength when a card is theenforcer:Flipped."
+  },
+  "theEnforcer:Jumpy": {
+    "NAME": "Jumpy",
+    "DESCRIPTION": "Gain !M! Dexterity when a card is theenforcer:Flipped."
+  },
+  "theEnforcer:FlashesOut": {
+    "NAME": "Flashes Out!",
+    "DESCRIPTION": "Deal !D! damage to all enemies and apply !M! Weak."
+  },
+  "theEnforcer:RightThere": {
+    "NAME": "Right There...",
+    "DESCRIPTION": "Deal !D! damage and apply !M! Weak."
+  },
+  "theEnforcer:ComeOnThen": {
+    "NAME": "Come On Then!",
+    "DESCRIPTION": "Gain !theEnforcer:SecondMagic! Block for every attack you make this turn. NL Gain !M! Strength this turn. NL theenforcer:Flips."
+  },
+  "theEnforcer:StayBack": {
+    "NAME": "Stay Back!",
+    "DESCRIPTION": "Gain !B! Block. NL Gain !M! Dexterity this turn. NL theenforcer:Flips."
+  },
+  "theEnforcer:Entrench": {
+    "NAME": "Entrench",
+    "DESCRIPTION": "Gain !B! Block. NL Gain !M! Energy. NL You cannot attack this turn."
+  },
+  "theEnforcer:WeighTheOdds": {
+  "NAME": "Weigh The Odds",
+  "DESCRIPTION": "Exhaust !theEnforcer:SecondMagic! Cards. NL Deal !M! Damage whenever a card is theenforcer:Flipped this turn. NL theenforcer:Flips."
+  },
+  "theEnforcer:WeighTheOptions": {
+    "NAME": "Weigh The Options",
+    "DESCRIPTION": "Draw !M! Cards. Exhaust !theEnforcer:SecondMagic! Cards. NL theenforcer:Flips."
+  },
+  "theEnforcer:Cauterise": {
+    "NAME": "Cauterise",
+    "DESCRIPTION": "Exhaust !M! Cards. Add a Burn to your discard pile."
+  },
+  "theEnforcer:Charge": {
+    "NAME": "Charge!",
+    "DESCRIPTION": "Deal !D! Damage, Receive !M! Damage"
+  },
+  "theEnforcer:ExploitWeakness": {
+    "NAME": "Exploit Weakness",
+    "DESCRIPTION": "Deal !D! Damage, if enemy has Weak, deal double damage."
+  },
+  "theEnforcer:WakeUp": {
+    "NAME": "Wake Up!",
+    "DESCRIPTION": "Deal !M! Damage to self, gain [E] [E].",
+    "UPGRADE_DESCRIPTION": "Deal !M! Damage to self, gain [E] [E] [E]."
+  },
+  "theEnforcer:Shatter": {
+    "NAME": "Shatter",
+    "DESCRIPTION": "Remove an Enemy's Block. NL theenforcer:Flips."
+  },
+  "theEnforcer:CollectScraps": {
+    "NAME": "Collect The Scraps",
+    "DESCRIPTION": "Remove half of an Enemy's Block, gain Block equal to damage dealt. NL theenforcer:Flips."
+  },
+  "theEnforcer:VisorsDown": {
+    "NAME": "Visors Down!",
+    "DESCRIPTION": "Gain !M! Artifact. NL Exhaust."
+  },
+  "theEnforcer:BreakingPoint": {
+    "NAME": "Breaking Point",
+    "DESCRIPTION": "Deal !D! Damage. Gain !M! Weak."
+  },
+  "theEnforcer:Shear": {
+    "NAME": "Shear",
+    "DESCRIPTION": "Deal !D! Damage. Remove all Thorns from enemy."
+  },
+  "theEnforcer:GuardedAdvance": {
+    "NAME": "Guarded Advance",
+    "DESCRIPTION": "Deal !D! Damage. Gain !B! Block."
+  },
+  "theEnforcer:GoForTheArm": {
+    "NAME": "Go For The Arm!",
+    "DESCRIPTION": "Deal !D! Damage and Remove !M! Strength from Enemy X Times."
+  },
+  "theEnforcer:RegrowthStims": {
+    "NAME": "Regrowth Stims",
+    "DESCRIPTION": "Lose !D! HP, Gain !M! Regen. NL theenforcer:Flips. NL theenforcer:Stimulant.",
+    "EXTENDED_DESCRIPTION": ["I've already used a Stimulant!"]
+  },
+  "theEnforcer:CombatStims": {
+    "NAME": "Combat Stims",
+    "DESCRIPTION": "Lose !D! HP, Gain !M! Combat Stimulants. NL theenforcer:Flips. NL theenforcer:Stimulant.",
+    "EXTENDED_DESCRIPTION": ["I've already used a Stimulant!"]
+  },
+  "theEnforcer:MutagenicCocktail": {
+    "NAME": "Mutagenic Cocktail",
+    "DESCRIPTION": "Gain !M! Strength and Dexterity this turn, gain !theEnforcer:SecondMagic! Poison. NL theenforcer:Stimulant. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Gain !M! Strength and Dexterity this turn, gain !theEnforcer:SecondMagic! Poison.",
+    "EXTENDED_DESCRIPTION": ["I've already used a Stimulant!"]
+
+  },
+  "theEnforcer:IntellectualInhaler": {
+    "NAME": "Intellectual Inhaler",
+    "DESCRIPTION": "Draw and Exhaust up to !M! cards. Gain !theEnforcer:SecondMagic! Poison. NL theenforcer:Stimulant. NL Exhaust."
+  },
+  "theEnforcer:Juiced": {
+    "NAME": "JUICED!",
+    "DESCRIPTION": "Lose !M! HP, Gain [E] [E] and draw 3 cards. NL Remove Stimmed. NL theenforcer:Flips.",
+    "UPGRADE_DESCRIPTION": "Lose !M! HP, Gain [E] [E] [E] and draw 3 cards. NL Remove theenforcer:Stimmed. NL theenforcer:Flips. NL Lose Less HP if theenforcer:Stimmed."
+  },
+  "theEnforcer:RoidRage": {
+    "NAME": "Roid Rage",
+    "DESCRIPTION": "Lose !theEnforcer:SecondMagic! HP, Gain !M! Strength, and deal !D! Damage !M! times. NL Remove theenforcer:Stimmed. NL theenforcer:Flips. NL Increases effects if theenforcer:Stimmed."
+  },
+  "theEnforcer:VolatileSerum": {
+    "NAME": "Volatile Serum",
+    "DESCRIPTION": "Lose 3 HP, at the end of your turn, lose !theEnforcer:SecondMagic! HP and deal !M! Damage to all enemies. NL Exhaust. NL theenforcer:Stimulant.",
+    "UPGRADE_DESCRIPTION": "Lose 3 HP, at the end of tour turn, deal !M! Damage to all enemies. NL Exhaust. NL theenforcer:Stimulant.",
+    "EXTENDED_DESCRIPTION": ["I've already used a Stimulant!"]
+  },
+  "theEnforcer:InertSolution": {
+    "NAME": "Inert Solution",
+    "DESCRIPTION": "Prevent the negative effects of your next theenforcer:Stimulant. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Prevent the negative effects of your next theenforcer:Stimulant. NL Remove theenforcer:Stimmed. NL Exhaust."
+  },
+  "theEnforcer:UltraMegaRoids": {
+    "NAME": "Ultra Mega 'Roids",
+    "DESCRIPTION": "Gain [E] [E] [E] , Draw !M! cards, Exhaust !theEnforcer:SecondMagic! cards, and gain 8 Strength. NL Die next turn."
+  },
+  "theEnforcer:HypodermicStrike": {
+    "NAME": "Hypodermic Strike",
+    "DESCRIPTION": "Deal !D! damage. NL theenforcer:Extract unblocked damage. NL theenforcer:Flips."
+  },
+  "theEnforcer:HypodermicSiphon": {
+    "NAME": "Hypodermic Siphon",
+    "DESCRIPTION": "Convert all of your stacks of Hypodermic Extract into HP. NL theenforcer:Flips.",
+    "EXTENDED_DESCRIPTION": ["I have no extract to siphon..."]
+  },
+  "theEnforcer:VitriolicDecay": {
+    "NAME": "Vitriolic Decay",
+    "DESCRIPTION": "When the targeted enemy dies, apply their Maximum HP as damage to all enemies."
+  },
+  "theEnforcer:Hurricanrana": {
+    "NAME": "Hurricanrana",
+    "DESCRIPTION": "Deal !D! damage. If target has Weak, gain [E] and draw !M! card."
+  },
+  "theEnforcer:FlexiblePreparation": {
+    "NAME": "Flexible Preparation",
+    "DESCRIPTION": "Draw !M! cards. If #yExhausted, gain [E] [E] .",
+    "UPGRADE_DESCRIPTION": "Draw !M! cards. If #yExhausted, gain [E] [E] [E] ."
+  },
+  "theEnforcer:BreathingRoom": {
+    "NAME": "Breathing Room",
+    "DESCRIPTION": "When Weak is applied to an enemy, draw !M! card.",
+    "UPGRADE_DESCRIPTION": "When Weak is applied to an enemy, draw !M! cards."
+  },
+  "theEnforcer:UnendingSalvo": {
+    "NAME": "Unending Salvo",
+    "DESCRIPTION": "Apply !D! damage and apply !M! Weak to all enemies X times."
+  },
+  "theEnforcer:Parry": {
+    "NAME": "Parry",
+    "DESCRIPTION": "Gain !B! block. If targeted enemy is attacking, deal !D! damage."
+  },
+  "theEnforcer:ChemBurn": {
+    "NAME": "Chem Burn",
+    "DESCRIPTION": "Lose [E] when drawn, Gain [E] [E] when Exhausted.",
+    "UPGRADE_DESCRIPTION": "Gain [E] [E] when Exhausted."
+  },
+  "theEnforcer:LingeringToxin": {
+    "NAME": "Lingering Toxin",
+    "DESCRIPTION": "Each turn, add a Chem Burn to your hand."
+  },
+  "theEnforcer:AggressiveAdvance": {
+    "NAME": "Aggressive Advance",
+    "DESCRIPTION": "Deal !D! damage, draw !M! card."
+  },
+  "theEnforcer:HastyDeflect": {
+    "NAME": "Hasty Deflect",
+    "DESCRIPTION": "Gain !B! block."
+  },
+  "theEnforcer:HardeningFormula": {
+    "NAME": "Hardening Formula",
+    "DESCRIPTION": "Lose !theEnforcer:SecondMagic! HP and Gain !M! Metallicize. NL theenforcer:Flips. NL theenforcer:Stimulant.",
+    "EXTENDED_DESCRIPTION": ["I've already used a Stimulant!"]
+  },
+  "theEnforcer:TemperingFlask": {
+    "NAME": "Tempering Flask",
+    "DESCRIPTION": "Lose !theEnforcer:SecondMagic! HP and Gain !M! Plated Armor. NL theenforcer:Flips. NL theenforcer:Stimulant.",
+    "EXTENDED_DESCRIPTION": ["I've already used a Stimulant!"]
+  },
+  "theEnforcer:LongTermHealthPlan": {
+    "NAME": "Long Term Health Plan",
+    "DESCRIPTION": "If you are theenforcer:Stimmed , remove Stimmed at the start of your turn. Gain theenforcer:Prepped at the start of your turn."
+  },
+  "theEnforcer:VaporisingShot": {
+    "NAME": "Vaporising Shot",
+    "DESCRIPTION": "Lose !theEnforcer:SecondMagic! HP and Gain !M! Intangible. NL theenforcer:Stimulant."
+  },
+  "theEnforcer:ToxicVent": {
+    "NAME": "Toxic Vent",
+    "DESCRIPTION": "Deal !D! damage. If theenforcer:Stimmed , deal !D! damage to all enemies and remove Stimmed."
+  }
+}

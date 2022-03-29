@@ -1,0 +1,74 @@
+{
+        "theEnforcer:CommonPower": {
+        "NAME": "Placeholder Power",
+        "DESCRIPTIONS": ["You applied #b", " keyword.", " keywords."]
+        },
+        "theEnforcer:RarePower": {
+        "NAME": "Placeholder Power",
+        "DESCRIPTIONS": ["At the start of your turn, TOUCH #b", " enemy." , " enemies."]
+        },
+        "theEnforcer:MercurialResolvePower": {
+                "NAME": "Mercurial Resolve",
+                "DESCRIPTIONS": ["When a card is #yFlipped, gain ", " Block."]
+        },
+        "theEnforcer:ExplodingShieldPower": {
+                "NAME": "Exploding Shield",
+                "DESCRIPTIONS": ["At the end of your turn, apply half of your block as damage to a random enemy."]
+        },
+        "theEnforcer:GainedBlockPower": {
+                "NAME": "Gained Block",
+                "DESCRIPTIONS": ["The amount of block accumulated this turn."]
+        },
+        "theEnforcer:UpgradedExplodingShieldPower": {
+                "NAME": "Exploding Shield +",
+                "DESCRIPTIONS": ["At the end of your turn, apply half of your block as damage to all enemies."]
+        },
+        "theEnforcer:AdrenalineStreamPower": {
+                "NAME": "Adrenaline Stream",
+                "DESCRIPTIONS": ["Gain ", " Strength when a card is #yFlipped."]
+        },
+        "theEnforcer:JumpyPower": {
+                "NAME": "Jumpy",
+                "DESCRIPTIONS": ["Gain ", "Dexterity when a card is #yFlipped."]
+        },
+        "theEnforcer:WeighTheOddsPower": {
+                "NAME": "Weigh The Odds",
+                "DESCRIPTIONS": ["Deal ", "Damage when a card is #yFlipped."]
+        },
+        "theEnforcer:StimmedPower": {
+                "NAME": "Stimmed",
+                "DESCRIPTIONS": ["You have used a #yStimulant this battle."]
+        },
+        "theEnforcer:CombatStimPower": {
+                "NAME": "Combat Stimulants",
+                "DESCRIPTIONS": ["Gain 1 Strength and 1 Dexterity per turn."]
+        },
+        "theEnforcer:FlippantFuryPower": {
+                "NAME": "Flippant Fury",
+                "DESCRIPTIONS": ["When a card is #yFlipped, deal ", " damage to all enemies."]
+        },
+        "theEnforcer:VolatileSerumPower": {
+                "NAME": "Volatile Serum",
+                "DESCRIPTIONS": ["At the end of your turn, lose ", " HP and deal ", " damage to all enemies."]
+        },
+        "theEnforcer:PreppedPower": {
+                "NAME": "Prepped",
+                "DESCRIPTIONS": ["Negate the negative effects of the next ", "stimulant", " stimulants"]
+        },
+        "theEnforcer:HypodermicExtractPower": {
+                "NAME": "Hypodermic Extract",
+                "DESCRIPTIONS": ["Upon using Hypodermic Siphon, heal ", " HP"]
+        },
+        "theEnforcer:ApplyWeakDrawPower": {
+                "NAME": "Breathing Room",
+                "DESCRIPTIONS": ["Whenever you apply #yWeakened, draw ", " card", " cards"]
+        },
+        "theEnforcer:LingeringToxinPower": {
+                "NAME": "Lingering Toxin",
+                "DESCRIPTIONS": ["At the beginning of your turn, add ", " Chem Burn to your hand.", " Chem Burns to your hand"]
+        },
+        "theEnforcer:LongTermPower": {
+                "NAME": "Long Term Health Plan",
+                "DESCRIPTIONS": ["At the beginning of your turn, gain ", " Prepped and remove Stimmed, if able"]
+        }
+}
