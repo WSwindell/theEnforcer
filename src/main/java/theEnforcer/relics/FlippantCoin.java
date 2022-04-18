@@ -15,8 +15,8 @@ public class FlippantCoin extends CustomRelic {
 
     // ID, images, text.
     public static final String ID = DefaultMod.makeID("FlippantCoin");
-    private static final Texture IMG = TextureLoader.getTexture(makeRelicPath("placeholder_relic.png"));
-    private static final Texture OUTLINE = TextureLoader.getTexture(makeRelicOutlinePath("placeholder_relic.png"));
+    private static final Texture IMG = TextureLoader.getTexture(makeRelicPath("FlippantCoin.png"));
+    private static final Texture OUTLINE = TextureLoader.getTexture(makeRelicOutlinePath("FlippantCoin.png"));
 
     public FlippantCoin() {
         super(ID, IMG, OUTLINE, RelicTier.STARTER, LandingSound.MAGICAL);

@@ -32,8 +32,8 @@ public class AdrenalineStreamPower extends AbstractPower implements CloneablePow
 
     // We create 2 new textures *Using This Specific Texture Loader* - an 84x84 image and a 32x32 one.
     // There's a fallback "missing texture" image, so the game shouldn't crash if you accidentally put a non-existent file.
-    private static final Texture tex84 = TextureLoader.getTexture(makePowerPath("placeholder_power84.png"));
-    private static final Texture tex32 = TextureLoader.getTexture(makePowerPath("placeholder_power32.png"));
+    private static final Texture tex84 = TextureLoader.getTexture(makePowerPath("AdrenalineStreamPower84.png"));
+    private static final Texture tex32 = TextureLoader.getTexture(makePowerPath("AdrenalineStreamPower32.png"));
 
     public AdrenalineStreamPower(final AbstractCreature owner, final AbstractCreature source, final int amount) {
         name = NAME;
